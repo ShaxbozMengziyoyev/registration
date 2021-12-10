@@ -20,9 +20,4 @@ signInForm.addEventListener('submit', e => {
   } else {
     alert ("Login yoki parol xato")
   }
-  // if (topilganUser) {
-  //   alert('User profilga kirildi')
-  // } else {
-  //   alert('Login yoki parol xato')
-  // }
 });
